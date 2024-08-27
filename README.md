@@ -1,6 +1,6 @@
 # PrivateGPT App
 
-This repository contains a FastAPI backend and Streamlit app for PrivateGPT, an application built by [imartinez](https://github.com/imartinez). The PrivateGPT App provides an interface to privateGPT, with options to embed and retrieve documents using a language model and an embeddings-based retrieval system. All data remains local. 
+This repository contains a FastAPI backend and Streamlit app for PrivateGPT. The PrivateGPT App provides an interface to privateGPT, with options to embed and retrieve documents using a language model and an embeddings-based retrieval system. All data remains local. 
 
 Easiest way to deploy:
 
